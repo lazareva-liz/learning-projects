@@ -50,7 +50,7 @@
 
 ## Ссылки
 *   [SQL-запросы](https://github.com/lazareva-liz/projects/blob/main/real_estate/real_estate.sql)
-*   [Интерактивный дашборд в DataLens](https://datalens.yandex/vp2gx03og4kih)
+
 
 ---
 *Автор: Лазарева Елизавета Сергеевна*
